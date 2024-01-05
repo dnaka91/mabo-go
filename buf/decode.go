@@ -7,7 +7,7 @@ import (
 	"math/big"
 	"unicode/utf8"
 
-	"github.com/dnaka91/stef/internal/varint"
+	"github.com/dnaka91/mabo/internal/varint"
 )
 
 type InsufficientDataError struct{}

@@ -3,7 +3,7 @@ package varint
 import (
 	"math/big"
 
-	"github.com/dnaka91/stef/internal/zigzag"
+	"github.com/dnaka91/mabo/internal/zigzag"
 )
 
 type DecodeError struct{}

@@ -1,4 +1,4 @@
-module github.com/dnaka91/stef
+module github.com/dnaka91/mabo
 
 go 1.21.3
 

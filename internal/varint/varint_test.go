@@ -5,7 +5,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/dnaka91/stef/internal/varint"
+	"github.com/dnaka91/mabo/internal/varint"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

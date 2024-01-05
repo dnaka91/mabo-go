@@ -5,7 +5,7 @@ import (
 	"math"
 	"math/big"
 
-	"github.com/dnaka91/stef/internal/varint"
+	"github.com/dnaka91/mabo/internal/varint"
 )
 
 func EncodeBool(w []byte, value bool) []byte {

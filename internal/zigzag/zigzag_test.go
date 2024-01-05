@@ -5,7 +5,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/dnaka91/stef/internal/zigzag"
+	"github.com/dnaka91/mabo/internal/zigzag"
 	"github.com/stretchr/testify/assert"
 )
 
