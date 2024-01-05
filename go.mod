@@ -1,6 +1,6 @@
 module github.com/dnaka91/mabo
 
-go 1.21.3
+go 1.21.5
 
 require (
 	github.com/dave/jennifer v1.7.0
